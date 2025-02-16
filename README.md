@@ -1,4 +1,4 @@
-<h1 align="center">~ Hello there! I'm Tamim ~</h1>
+<h1 align="center">~ Hello there! I'm Sanjana ~</h1>
 
 
 color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic
