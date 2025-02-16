@@ -1,7 +1,6 @@
 <h1 align="center">~ Hello there! I'm Sanjana ~</h1>
 
 
-color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic
 ### Hi there 👋
 
 I am Sanjana Jashim, 
